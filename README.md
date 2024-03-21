@@ -7,7 +7,7 @@
 
 :strawberry: 一些技能
 
-工作上主要使用Java，所以比较多的关注Java及周边生态。业余时间做一些小产品、小工具，所以对Python、React也比较熟悉
+> 工作上主要使用Java，所以比较多的关注Java及周边生态。业余时间做一些小产品、小工具，所以对Python、React也比较熟悉
 
 ![My Skills](https://skillicons.dev/icons?i=java,python,react,typescript&theme=light)
 
