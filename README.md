@@ -2,7 +2,7 @@
 :watermelon:    <strong>我自己</strong>
   </p>
   
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=喜欢写代码，喜欢做产品，喜欢分享技术知识，并认为这些是有意义的。&author=古时的风筝)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=程序员，50%的全栈，喜欢写代码，喜欢做产品，喜欢分享技术知识。&author=古时的风筝)](https://github.com/piyushsuthar/github-readme-quotes)
   
 
 :strawberry: 一些技能
