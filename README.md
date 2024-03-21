@@ -20,17 +20,20 @@
 #### :link: 联络方式
 
 <p align="left">
-		<img src="https://img.shields.io/badge/我的博客-古时的风筝-orange?style=for-the-badge&link=https://moonkite.cn" /> 
- <a href="https://twitter.com/moon_kites"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/我的博客-古时的风筝-orange?style=for-the-badge&link=https://moonkite.cn" /> 
+  <a href="https://twitter.com/moon_kites"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge" /> 
  </a>
- 
-  </p>
+</p>
 
 <img alt="公众号：古时的风筝" src="https://raw.githubusercontent.com/huzhicheng/huzhicheng/main/person.jpg" width="40%" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huzhicheng&show_icons=true&theme=radical)
 
+<details>
+<summary>:eyes: stats</summary>
 
+![ stats](https://github-readme-stats.vercel.app/api?username=huzhicheng&show_icons=true&theme=radical)
+
+</details>
 <details>
 <summary>:eyes: Top Languages</summary>
   
